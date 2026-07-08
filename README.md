@@ -1,3 +1,32 @@
+<h1 align="center">
+  reast Cancer Classification Using Gradient Boosting Algorithms
+</h1>
+
+<h3 align="center">
+  Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability 
+</h3>
+
+<p align="center">
+  <strong>João Manoel Herrera Pinheiro</strong><sup>1</sup> &middot;
+  <strong>Marcelo Becker</strong><sup>1</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup> Department of Mechanical Engineering, University of São Paulo, São Paulo 13566-590, Brazil<br>
+</p>
+
+<p align="center">
+  <em>Inteligencia Artificial, 2025</em>
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.4114/intartif.vol28iss75pp63-80">
+    <img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="Paper">
+  </a>&nbsp;
+  <a href="https://arxiv.org/abs/2403.09548">
+    <img src="https://img.shields.io/badge/arXiv-2606.31941-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
+  </a>&nbsp;
+</p>
 # Citation
 
 ```latex
