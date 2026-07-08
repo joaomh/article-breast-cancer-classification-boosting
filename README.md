@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="Paper">
   </a>&nbsp;
   <a href="https://arxiv.org/abs/2403.09548">
-    <img src="https://img.shields.io/badge/arXiv-2606.31941-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2403.09548-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
   </a>&nbsp;
 </p>
 # Citation
